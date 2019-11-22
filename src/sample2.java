@@ -17,9 +17,7 @@ import utils.IOUtils;
  */
 public class sample2{
      public sample2 (){
-         
-         
-        
+          
         this.getN50();
      }
     public void getN50(){
